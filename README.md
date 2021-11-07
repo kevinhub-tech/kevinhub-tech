@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevinhub-tech
-- 👀 I’m interested in back-end coding
+- 👀 I’m interested in both front-end and back-end coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to explore on any companies as an intern
 - 📫 I will be able to reach through my email winkhantpaing32@gmail.com
