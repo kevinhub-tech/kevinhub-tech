@@ -13,8 +13,8 @@
 > Passionate to learn new things in industries and how they operate as a unit in software development. 
 ### About Me
 - 👋 I’m currently learning Java
-- 👀 <a href=""> My latest project </a>
-- 🔰 <a href=""> My extra-curriculum project </a>
+- 👀 <a href="https://github.com/kevinhub-tech/API"> Check out My latest project! </a>
+- 🔰 <a href=""> Here's my extra-curriculum project </a>
 - 📍 I’m looking to explore on any companies as an intern
 - 🔎I will be able to reach through my email winkhantpaing32@gmail.com
 
