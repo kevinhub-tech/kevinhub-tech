@@ -14,7 +14,7 @@
 - 👋 I’m currently learning Java
 - 📍 I’m looking to explore on any companies as an intern
 - 🔎 You can look into my projects <a href="https://github.com/kevinhub-tech?tab=repositories">Here !</a>
-- 🔎 <a href="https://drive.google.com/file/d/1zISwSK4nm-jPmM4Frrq6bo1Zsgb-mGQU/view?usp=sharing">View My Resume.</a>
+- 📝	 <a href="https://drive.google.com/file/d/1zISwSK4nm-jPmM4Frrq6bo1Zsgb-mGQU/view?usp=sharing">View My Resume.</a>
 - 👀 <a href="https://github.com/kevinhub-tech/API"> Check out My latest project! </a>
 - 🔰 <a href="https://github.com/kevinhub-tech/WIT"> Here's my extra-curriculum project.</a>
 
