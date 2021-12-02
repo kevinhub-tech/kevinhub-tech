@@ -5,7 +5,7 @@
 <a href= "https://twitter.com/KevinSteve999"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href= "https://www.linkedin.com/in/win-khant-paing/"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href= "https://www.instagram.com/kevin_steven_paing/"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
+<a href= "https://www.instagram.com/kevin_steven_paing/"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 </br> 
 </br>
 
@@ -16,7 +16,7 @@
 - 👀 <a href="https://github.com/kevinhub-tech/API"> Check out My latest project! </a>
 - 🔰 <a href="https://github.com/kevinhub-tech/WIT"> Here's my extra-curriculum project.</a>
 - 📍 I’m looking to explore on any companies as an intern
-- 🔎 You can look into my projects <a href="">Here !</a>
+- 🔎 You can look into my projects <a href="https://github.com/kevinhub-tech?tab=repositories">Here !</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinhub-tech&show_icons=true&theme=graywhite )
 
