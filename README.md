@@ -17,7 +17,7 @@
 - 🔰 <a href="https://github.com/kevinhub-tech/WIT"> Here's my extra-curriculum project.</a>
 - 📍 I’m looking to explore on any companies as an intern
 - 🔎 You can look into my projects <a href="https://github.com/kevinhub-tech?tab=repositories">Here !</a>
-- <a href="file:///D:/Level%204%20HNC/Resume/Win%20Khant%20Paing%20Resume.pdf">Download My Resume.</a>
+- 🔎 <a href="file:///D:/Level%204%20HNC/Resume/Win%20Khant%20Paing%20Resume.pdf">Download My Resume.</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinhub-tech&show_icons=true&theme=graywhite )
 
 
