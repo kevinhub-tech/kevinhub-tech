@@ -5,7 +5,6 @@
 <a href= "https://twitter.com/KevinSteve999"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href= "https://www.linkedin.com/in/win-khant-paing/"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href= "https://www.instagram.com/kevin_steven_paing/"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<img align="left" alt="winkhantpaing32@gmail.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </br> 
 </br>
 
@@ -17,7 +16,7 @@
 - 🔰 <a href="https://github.com/kevinhub-tech/WIT"> Here's my extra-curriculum project.</a>
 - 📍 I’m looking to explore on any companies as an intern
 - 🔎 You can look into my projects <a href="https://github.com/kevinhub-tech?tab=repositories">Here !</a>
-- 🔎 <a href="file:///D:/Level%204%20HNC/Resume/Win%20Khant%20Paing%20Resume.pdf">Download My Resume.</a>
+- 🔎 <a href="https://drive.google.com/file/d/1zISwSK4nm-jPmM4Frrq6bo1Zsgb-mGQU/view?usp=sharing">Download My Resume.</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinhub-tech&show_icons=true&theme=graywhite )
 
