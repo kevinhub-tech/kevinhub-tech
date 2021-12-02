@@ -14,9 +14,9 @@
 ### About Me
 - 👋 I’m currently learning Java
 - 👀 <a href="https://github.com/kevinhub-tech/API"> Check out My latest project! </a>
-- 🔰 <a href=""> Here's my extra-curriculum project.</a>
+- 🔰 <a href="https://github.com/kevinhub-tech/WIT"> Here's my extra-curriculum project.</a>
 - 📍 I’m looking to explore on any companies as an intern
-- 🔎I will be able to reach through my email winkhantpaing32@gmail.com
+- 🔎 You can look into my projects <a href="">Here !</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinhub-tech&show_icons=true&theme=graywhite )
 
