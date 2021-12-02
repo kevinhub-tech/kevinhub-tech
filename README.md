@@ -5,7 +5,7 @@
 <a href= "https://twitter.com/KevinSteve999"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href= "https://www.linkedin.com/in/win-khant-paing/"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href= "https://www.instagram.com/kevin_steven_paing/"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href= "https://www.instagram.com/kevin_steven_paing/"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href= "winkhantpaing32@gmail.com"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 </br> 
 </br>
 
