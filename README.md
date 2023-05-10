@@ -11,7 +11,7 @@
  I'm WIn Khant Paing from Myanmar, and mostly known as Kevin. I have been a current student in Lithan Myanmar and got in-touch with full-stack software development.🧑‍🎓 
 > Passionate to learn new things in industries and how they operate as a unit in software development. 
 ### About Me
-- 👋 I’m currently learning Java
+- 👋 I’m currently learning JavaScript, Particularly NodeJs and ReactJs
 - 📍 I’m looking to explore on any companies as an intern
 - 🔎 You can look into my projects <a href="https://github.com/kevinhub-tech?tab=repositories">Here !</a>
 - 📝	 <a href="https://drive.google.com/file/d/1zISwSK4nm-jPmM4Frrq6bo1Zsgb-mGQU/view?usp=sharing">View My Resume.</a>
