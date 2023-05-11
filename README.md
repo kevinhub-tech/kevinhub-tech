@@ -1,6 +1,6 @@
 ## Win Khant Paing
 
-<a href= "https://github.com/kevinhub-tech"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+<a href= "https://github.com/kevinhub-tech"><img align="left" alt="" width="22px" background-color="#fff" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 
 <a href= "https://twitter.com/KevinSteve999"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href= "https://www.linkedin.com/in/win-khant-paing/"><img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
