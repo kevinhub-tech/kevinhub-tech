@@ -7,7 +7,7 @@
 </br> 
 </br>
 
- I'm WIn Khant Paing from Myanmar, and mostly known as Kevin. I have been a current student in Lithan Myanmar and got in-touch with full-stack software development.🧑‍🎓 
+ I'm WIn Khant Paing from Myanmar, and mostly known as Kevin. I got in-touch with full-stack software development in Lithan Myanmar and I dream to be a full-stack development.🧑‍🎓 
 > Passionate to learn new things in industries and how they operate as a unit in software development. 
 ### About Me
 - 👋 I’m currently learning JavaScript and PHP
