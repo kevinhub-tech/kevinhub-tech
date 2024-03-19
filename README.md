@@ -13,7 +13,7 @@
 - 👋 I’m currently learning JavaScript and PHP
 - 📍 I’m looking to explore on any companies as an intern
 - 🔎 You can look into my projects <a href="https://github.com/kevinhub-tech?tab=repositories">Here !</a>
-- 📝	 <a href="https://docs.google.com/document/d/1hlpPyILQUgBuseIIdyXq3ixxWrNgA4xU/edit?usp=sharing&ouid=102153107342853816794&rtpof=true&sd=true">View My Resume.</a>
+- 📝	 <a href="[https://docs.google.com/document/d/1hlpPyILQUgBuseIIdyXq3ixxWrNgA4xU/edit?usp=sharing&ouid=102153107342853816794&rtpof=true&sd=true](https://www.canva.com/design/DAF_ZUTiPFE/MaxTWGdwr_XCBBNNnmMyOQ/edit?utm_content=DAF_ZUTiPFE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)">View My Resume.</a>
 - 👀 <a href="https://kevinhub-tech.netlify.app/"> Check out My Portfolio! </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinhub-tech&show_icons=true&theme=graywhite )
