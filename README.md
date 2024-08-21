@@ -11,7 +11,7 @@
 > Passionate to learn new things in industries and how they operate as a unit in software developer. 
 ### About Me
 - 👋 I’m currently learning JavaScript and PHP
-- 📍 I’m looking to explore on any companies as an intern
+- 📍 I’m looking to explore on any companies to expand my knowledge and contribute to the team effectively.
 - 🔎 You can look into my projects <a href="https://github.com/kevinhub-tech?tab=repositories">Here !</a>
 - 📝	 <a href="https://www.canva.com/design/DAF_ZUTiPFE/MaxTWGdwr_XCBBNNnmMyOQ/edit?utm_content=DAF_ZUTiPFE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">View My Resume.</a>
 - 👀 <a href="https://kevinhub-tech.netlify.app/"> Check out My Portfolio! </a>
